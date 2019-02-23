@@ -1,1 +1,1 @@
-KiCad projects
+KiCad hobby projects

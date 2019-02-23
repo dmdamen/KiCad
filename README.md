@@ -1,1 +1,1 @@
-KiCad
+KiCad projects
